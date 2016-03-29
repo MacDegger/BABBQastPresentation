@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BABQastPresentation</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="str_activity_main_startcastactivity_32">Start CastActivity 30 FPS</string>
+    <string name="str_activity_main_startcastactivity_16">Start CastActivity 60 FPS</string>
+    <string name="str_activity_main_startcastactivity_bg">Start CastActivity with BG</string>
+</resources>
