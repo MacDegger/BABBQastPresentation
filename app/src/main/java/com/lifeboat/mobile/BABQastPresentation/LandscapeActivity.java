@@ -53,7 +53,7 @@ public class LandscapeActivity extends FragmentActivity {
     private TouchView topTV;
     private TouchView bottomTV;
 
-    private String REMOTE_DISPLAY_APP_ID = "8ABF532B";
+    private String REMOTE_DISPLAY_APP_ID = "12345678";
 
     private static final String STATUS_READY = "com.lifeboat.mobile.BABQastPresentation.ready";
     private static final String STATUS_UPDATE = "com.lifeboat.mobile.BABQastPresentation.gatherupdates";
